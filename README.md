@@ -1,2 +1,2 @@
-# File-Hosting-Repository
-A repository for hosting apps I distribute
+# Lessify
+Download your favourite musics at high bit-rates.
