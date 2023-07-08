@@ -1,2 +1,2 @@
 # Lessify
-Download your favourite musics at high bit-rates.
+Spotify, but you pay less
